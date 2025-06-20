@@ -6,7 +6,6 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import GreenFest from "./pages/GreenFest";
-import GreenOutside from "./pages/GreenOutside";
 import Lineup from "./pages/Lineup";
 import Partners from "./pages/Partners";
 import Merch from "./pages/Merch";
