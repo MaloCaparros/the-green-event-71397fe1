@@ -10,8 +10,6 @@ const Navigation = () => {
   const navigation = [
     { name: "Accueil", href: "/" },
     { name: "The Green Fest", href: "/green-fest" },
-    { name: "Événements Bar", href: "/events-bar" },
-    { name: "The Green Outside", href: "/green-outside" },
     { name: "Line-up", href: "/lineup" },
     { name: "Partenaires", href: "/partners" },
     { name: "Merch", href: "/merch" },
